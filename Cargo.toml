@@ -20,7 +20,7 @@ include = [
 [dependencies]
 egui = "0.11.0"
 # egui-miniquad = "0.2.0"
-egui-miniquad = { git = "https://github.com/extrawurst/egui-miniquad.git", rev = "cb86a51" }
+egui-miniquad = { git = "https://github.com/extrawurst/egui-miniquad.git", rev = "c7a3242" }
 macroquad = "0.3.0-alpha.17"
 
 [dev-dependencies]
